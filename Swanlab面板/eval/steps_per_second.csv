@@ -1,0 +1,4 @@
+step,Qwen3_0.6B_Ltr_SFT_r32_a32_d0-eval/steps_per_second_step,Qwen3_0.6B_Ltr_SFT_r32_a32_d0-eval/steps_per_second_timestamp,Qwen3_0.6B_Ltr_SFT_r16_a16_d0-eval/steps_per_second_step,Qwen3_0.6B_Ltr_SFT_r16_a16_d0-eval/steps_per_second_timestamp,Qwen3_0.6B_Ltr_SFT_r8_a8_d0-eval/steps_per_second_step,Qwen3_0.6B_Ltr_SFT_r8_a8_d0-eval/steps_per_second_timestamp
+100,8.025,1779249319000,9.078,1779248346000,8.624,1779247410000
+200,7.398,1779249651000,9.891,1779248664000,9.268,1779247726000
+255,8.032,1779249835000,9.066,1779248851000,8.751,1779247915000

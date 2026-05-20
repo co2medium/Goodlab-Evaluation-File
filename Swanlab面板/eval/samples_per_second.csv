@@ -1,0 +1,4 @@
+step,Qwen3_0.6B_Ltr_SFT_r32_a32_d0-eval/samples_per_second_step,Qwen3_0.6B_Ltr_SFT_r32_a32_d0-eval/samples_per_second_timestamp,Qwen3_0.6B_Ltr_SFT_r16_a16_d0-eval/samples_per_second_step,Qwen3_0.6B_Ltr_SFT_r16_a16_d0-eval/samples_per_second_timestamp,Qwen3_0.6B_Ltr_SFT_r8_a8_d0-eval/samples_per_second_step,Qwen3_0.6B_Ltr_SFT_r8_a8_d0-eval/samples_per_second_timestamp
+100,16.05,1779249319000,18.155,1779248346000,17.247,1779247410000
+200,14.796,1779249651000,19.783,1779248664000,18.536,1779247726000
+255,16.063,1779249835000,18.133,1779248851000,17.502,1779247915000
